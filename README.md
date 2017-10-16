@@ -29,6 +29,9 @@ most significant change fixes the plugin for video.js 6+
 
 licensing has been unchanged between that fork and the origin repository.
 
+Since both repositories don't do releases of recent changes the commit ID used to bundle
+the plugin from AdamTyle/videojs-socialShare repository is: 75fd0d55e9a801babc281d19b017229325bf5664
+
 ## Installation
 
 Add this line to your application's Gemfile:
